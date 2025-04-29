@@ -1,4 +1,9 @@
+transformers>=4.35.0
+torch>=2.1.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+openpyxl>=3.0.0
+accelerate>=0.26.0
+datasets>=2.13.0
 kagglehub
-pandas
-scikit-learn
-openpyxl
+evaluate

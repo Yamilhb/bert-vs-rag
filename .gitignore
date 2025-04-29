@@ -1,1 +1,4 @@
 .venv
+.env
+notebook/rag_vs_fine_tuning_v1.ipynb
+checkpoints/
