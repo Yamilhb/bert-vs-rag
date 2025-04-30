@@ -11,3 +11,5 @@ openai
 dotenv
 langchain-openai
 langchain-chroma>=0.1.2
+plotly
+nbformat>=4.2.0
